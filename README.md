@@ -28,9 +28,8 @@ Wiray compiles and runs successfully on Windows, and has not been tested on othe
 
 Also lots of important but trivial feature light GUI and multi-threading is done by nori.
 
-#Samples
 
-Picture produced by WiRay
+# image produced by WiRay
 
 **Path tracing with Disney brdf:**
 
@@ -39,7 +38,6 @@ Picture produced by WiRay
 **naive Photon mapping with simple caustic:**
 
 ![](Scenes/pm.png)
-
 
 
 **homogeneous Volume rendering:**
