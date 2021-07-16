@@ -1,13 +1,3 @@
-
-
-# Background
-
-WiRay is a very simple renderer based on [nori](https://wjakob.github.io/nori/),  used to learning PBRT.
-
-# Compile
-
-WiRay compiles and runs successfully on Windows, and has not been tested on other platforms. You can generate vs2019 sln through cmake-gui, or cmake command line. You also can play with the executable in release file.
-
 # Feature
 
 |                          Functions                          | state   |
